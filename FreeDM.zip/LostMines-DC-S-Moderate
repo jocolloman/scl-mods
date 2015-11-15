@@ -26,7 +26,7 @@ Seeds:
         <Group>
             <Trunk>
                 <Tiles >
-                    <Tile Name= "LOS_FlortalUP" CanDMSpawn= "0" />    <!-- FLORTAL - Only ONE tile IN THIS GROUP   -->
+                    <Tile Name= "LOS_FlortalUP" CanDMSpawn= "1" />    <!-- FLORTAL - Only ONE tile IN THIS GROUP   -->
                 </Tiles>
             </Trunk>
         </Group>

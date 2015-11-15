@@ -25,7 +25,7 @@ Seeds:
         <Group>
             <Trunk>
                 <Tiles >
-                    <Tile Name="CAT_FlortalUP" CanDMSpawn= "0" />
+                    <Tile Name="CAT_FlortalUP" CanDMSpawn= "1" />
                 </Tiles>
             </Trunk>
         </Group>
