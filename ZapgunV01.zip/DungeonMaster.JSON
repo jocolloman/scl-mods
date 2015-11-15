@@ -7005,6 +7005,9 @@
             "as_troll": [
                 "additionalset"
             ],
+            "dc_assassins": [
+                "monsterset"
+            ],
             "dc_beasts": [
                 "monsterset"
             ],
@@ -7058,6 +7061,15 @@
             ],
             "dm_inn_weaponvendor": [
                 "vendor"
+            ],
+            "extras": [
+                "monsterset"
+            ],
+            "luskanguards": [
+                "monsterset"
+            ],
+            "pirateset1": [
+                "monsterset"
             ]
         }
     ],
